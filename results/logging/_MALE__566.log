@@ -1,0 +1,671 @@
+2.4885 	INFO 	Screen res set as: 1920x1080
+2.4895 	INFO 	Loaded monitor calibration from ['2018_09_18 09:28']
+3.0584 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='Gainsboro', colorSpace='named', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f5d7019ef60>, multiSample=False, name='window1', numSamples=2, pos=None, screen=0, size=array([1920, 1080]), stereo=False, units='pix', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pygame')
+3.0584 	INFO 	Detected framerate: 30 frames per sec.
+3.0584 	INFO 	Mouse: using default window
+3.1179 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/clock.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([600., 400.]), size=array([50., 50.]), texRes=128, units='pix', win=Window(...))
+3.1528 	INFO 	using sysFont Arial
+3.1544 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=32, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='Wstęp', units='pix', win=Window(...), wrapWidth=1920)
+4.0726 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/14_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-50., 150.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+4.0814 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/7_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 50., 150.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+4.0914 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-50.,  50.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+4.0999 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/17_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([50., 50.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+4.1032 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1043 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1053 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1069 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1079 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1089 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1104 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1114 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1124 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1224 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/17_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-500., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1313 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-400., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1407 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/14_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-500., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1493 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/7_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-400., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1504 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1514 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1525 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1542 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1553 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1563 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1578 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1588 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1598 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1698 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/17_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-200., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1787 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/14_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-100., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1878 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-200., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1972 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/7_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-100., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.1984 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.1994 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2004 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2019 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2030 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2040 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2055 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2066 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2076 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2169 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/17_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 100., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2264 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/7_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 200., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2351 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/14_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 100., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2448 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 200., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2460 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2470 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2481 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2495 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2506 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2516 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2531 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2542 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2553 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2644 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/14_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 400., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2741 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 500., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2827 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/17_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 400., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2915 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/7_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 500., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+4.2926 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2936 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2947 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2962 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2972 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2982 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.2997 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.3007 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.3018 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+4.3345 	EXP 	unnamed Line: start = [30.0, 150.0]
+4.3345 	EXP 	unnamed Line: end = [-30.0, 150.0]
+4.3345 	EXP 	unnamed Line: start = [-20.0, 160.0]
+4.3345 	EXP 	unnamed Line: end = [-30.0, 150.0]
+4.3345 	EXP 	unnamed Line: start = [-20.0, 140.0]
+4.3345 	EXP 	unnamed Line: end = [-30.0, 150.0]
+4.3345 	EXP 	unnamed Line: start = [-30.0, 50.0]
+4.3345 	EXP 	unnamed Line: end = [30.0, 50.0]
+4.3345 	EXP 	unnamed Line: start = [20.0, 40.0]
+4.3345 	EXP 	unnamed Line: end = [30.0, 50.0]
+4.3345 	EXP 	unnamed Line: start = [20.0, 60.0]
+4.3345 	EXP 	unnamed Line: end = [30.0, 50.0]
+4.3345 	EXP 	unnamed Line: start = [50.0, 70.0]
+4.3345 	EXP 	unnamed Line: end = [50.0, 130.0]
+4.3345 	EXP 	unnamed Line: start = [60.0, 120.0]
+4.3345 	EXP 	unnamed Line: end = [50.0, 130.0]
+4.3345 	EXP 	unnamed Line: start = [40.0, 120.0]
+4.3345 	EXP 	unnamed Line: end = [50.0, 130.0]
+4.3345 	EXP 	unnamed Line: start = [-415.0, -250.0]
+4.3345 	EXP 	unnamed Line: end = [-485.0, -250.0]
+4.3345 	EXP 	unnamed Line: start = [-475.0, -240.0]
+4.3345 	EXP 	unnamed Line: end = [-485.0, -250.0]
+4.3345 	EXP 	unnamed Line: start = [-475.0, -260.0]
+4.3345 	EXP 	unnamed Line: end = [-485.0, -250.0]
+4.3345 	EXP 	unnamed Line: start = [-485.0, -150.0]
+4.3345 	EXP 	unnamed Line: end = [-415.0, -150.0]
+4.3345 	EXP 	unnamed Line: start = [-425.0, -160.0]
+4.3345 	EXP 	unnamed Line: end = [-415.0, -150.0]
+4.3345 	EXP 	unnamed Line: start = [-425.0, -140.0]
+4.3345 	EXP 	unnamed Line: end = [-415.0, -150.0]
+4.3345 	EXP 	unnamed Line: start = [-485.0, -165.0]
+4.3345 	EXP 	unnamed Line: end = [-415.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [-429.14213562373095, -235.0]
+4.3345 	EXP 	unnamed Line: end = [-415.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [-415.0, -220.85786437626905]
+4.3345 	EXP 	unnamed Line: end = [-415.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [-100.0, -235.0]
+4.3345 	EXP 	unnamed Line: end = [-100.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [-90.0, -175.0]
+4.3345 	EXP 	unnamed Line: end = [-100.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [-110.0, -175.0]
+4.3345 	EXP 	unnamed Line: end = [-100.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [-200.0, -235.0]
+4.3345 	EXP 	unnamed Line: end = [-200.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [-190.0, -175.0]
+4.3345 	EXP 	unnamed Line: end = [-200.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [-210.0, -175.0]
+4.3345 	EXP 	unnamed Line: end = [-200.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [-185.0, -165.0]
+4.3345 	EXP 	unnamed Line: end = [-115.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [-129.14213562373095, -235.0]
+4.3345 	EXP 	unnamed Line: end = [-115.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [-115.0, -220.85786437626905]
+4.3345 	EXP 	unnamed Line: end = [-115.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [115.0, -235.0]
+4.3345 	EXP 	unnamed Line: end = [185.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [185.0, -179.14213562373095]
+4.3345 	EXP 	unnamed Line: end = [185.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [170.85786437626905, -165.0]
+4.3345 	EXP 	unnamed Line: end = [185.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [185.0, -235.0]
+4.3345 	EXP 	unnamed Line: end = [115.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [129.14213562373095, -165.0]
+4.3345 	EXP 	unnamed Line: end = [115.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [115.0, -179.14213562373095]
+4.3345 	EXP 	unnamed Line: end = [115.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [115.0, -150.0]
+4.3345 	EXP 	unnamed Line: end = [185.0, -150.0]
+4.3345 	EXP 	unnamed Line: start = [175.0, -160.0]
+4.3345 	EXP 	unnamed Line: end = [185.0, -150.0]
+4.3345 	EXP 	unnamed Line: start = [175.0, -140.0]
+4.3345 	EXP 	unnamed Line: end = [185.0, -150.0]
+4.3345 	EXP 	unnamed Line: start = [485.0, -235.0]
+4.3345 	EXP 	unnamed Line: end = [415.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [429.14213562373095, -165.0]
+4.3345 	EXP 	unnamed Line: end = [415.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [415.0, -179.14213562373095]
+4.3345 	EXP 	unnamed Line: end = [415.0, -165.0]
+4.3345 	EXP 	unnamed Line: start = [485.0, -165.0]
+4.3345 	EXP 	unnamed Line: end = [415.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [415.0, -220.85786437626905]
+4.3345 	EXP 	unnamed Line: end = [415.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [429.14213562373095, -235.0]
+4.3345 	EXP 	unnamed Line: end = [415.0, -235.0]
+4.3345 	EXP 	unnamed Line: start = [415.0, -250.0]
+4.3345 	EXP 	unnamed Line: end = [485.0, -250.0]
+4.3345 	EXP 	unnamed Line: start = [475.0, -260.0]
+4.3345 	EXP 	unnamed Line: end = [485.0, -250.0]
+4.3345 	EXP 	unnamed Line: start = [475.0, -240.0]
+4.3345 	EXP 	unnamed Line: end = [485.0, -250.0]
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed ImageStim: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+4.3345 	EXP 	unnamed Line: autoDraw = True
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed ImageStim: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+12.3537 	EXP 	unnamed Line: autoDraw = False
+13.3667 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/23_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-50., 150.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+13.3765 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/11_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 50., 150.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+13.3862 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/21_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-50.,  50.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+13.3954 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([50., 50.]), size=array([40., 40.]), texRes=128, units='pix', win=Window(...))
+13.3965 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.3977 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.3987 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4003 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4015 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4026 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4042 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4053 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4063 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4168 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/11_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-500., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4259 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/23_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-400., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4354 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/21_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-500., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4446 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-400., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4457 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4469 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4479 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4496 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4506 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4517 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4533 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4544 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4555 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4658 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-200., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4748 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/21_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-100., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4836 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/23_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-200., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4939 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/11_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-100., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.4950 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4962 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4972 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4988 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.4999 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5010 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5026 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5037 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5048 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5144 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/23_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 100., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5245 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 200., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5337 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/11_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 100., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5434 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/21_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 200., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5446 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5457 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5468 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5483 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5494 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5505 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5521 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5533 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5543 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5636 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/21_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 400., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5735 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/25_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 500., -150.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5825 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/23_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 400., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5920 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='images/11_11.png', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 500., -250.]), size=array([30., 30.]), texRes=128, units='pix', win=Window(...))
+13.5932 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5943 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5954 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5969 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5980 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.5991 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.6007 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.6018 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.6031 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, autoDraw=False, autoLog=True, closeShape=False, contrast=1.0, depth=0, fillColor=None, fillColorSpace='rgb', interpolate=True, lineColor='black', lineColorSpace='named', lineWidth=1.5, name='unnamed Line', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=array([[-0.5, -0.5],
+       [ 0.5,  0.5]]), win=Window(...), windingRule=None)
+13.6197 	EXP 	unnamed Line: start = [30.0, 70.0]
+13.6197 	EXP 	unnamed Line: end = [-30.0, 130.0]
+13.6197 	EXP 	unnamed Line: start = [-15.857864376269049, 130.0]
+13.6197 	EXP 	unnamed Line: end = [-30.0, 130.0]
+13.6197 	EXP 	unnamed Line: start = [-30.0, 115.85786437626905]
+13.6197 	EXP 	unnamed Line: end = [-30.0, 130.0]
+13.6197 	EXP 	unnamed Line: start = [-30.0, 50.0]
+13.6197 	EXP 	unnamed Line: end = [30.0, 50.0]
+13.6197 	EXP 	unnamed Line: start = [20.0, 40.0]
+13.6197 	EXP 	unnamed Line: end = [30.0, 50.0]
+13.6197 	EXP 	unnamed Line: start = [20.0, 60.0]
+13.6197 	EXP 	unnamed Line: end = [30.0, 50.0]
+13.6197 	EXP 	unnamed Line: start = [50.0, 130.0]
+13.6197 	EXP 	unnamed Line: end = [50.0, 70.0]
+13.6197 	EXP 	unnamed Line: start = [40.0, 80.0]
+13.6197 	EXP 	unnamed Line: end = [50.0, 70.0]
+13.6197 	EXP 	unnamed Line: start = [60.0, 80.0]
+13.6197 	EXP 	unnamed Line: end = [50.0, 70.0]
+13.6197 	EXP 	unnamed Line: start = [-400.0, -235.0]
+13.6197 	EXP 	unnamed Line: end = [-400.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [-390.0, -175.0]
+13.6197 	EXP 	unnamed Line: end = [-400.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [-410.0, -175.0]
+13.6197 	EXP 	unnamed Line: end = [-400.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [-485.0, -250.0]
+13.6197 	EXP 	unnamed Line: end = [-415.0, -250.0]
+13.6197 	EXP 	unnamed Line: start = [-425.0, -260.0]
+13.6197 	EXP 	unnamed Line: end = [-415.0, -250.0]
+13.6197 	EXP 	unnamed Line: start = [-425.0, -240.0]
+13.6197 	EXP 	unnamed Line: end = [-415.0, -250.0]
+13.6197 	EXP 	unnamed Line: start = [-415.0, -235.0]
+13.6197 	EXP 	unnamed Line: end = [-485.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [-470.85786437626905, -165.0]
+13.6197 	EXP 	unnamed Line: end = [-485.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [-485.0, -179.14213562373095]
+13.6197 	EXP 	unnamed Line: end = [-485.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [-200.0, -165.0]
+13.6197 	EXP 	unnamed Line: end = [-200.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [-210.0, -225.0]
+13.6197 	EXP 	unnamed Line: end = [-200.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [-190.0, -225.0]
+13.6197 	EXP 	unnamed Line: end = [-200.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [-185.0, -150.0]
+13.6197 	EXP 	unnamed Line: end = [-115.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [-125.0, -160.0]
+13.6197 	EXP 	unnamed Line: end = [-115.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [-125.0, -140.0]
+13.6197 	EXP 	unnamed Line: end = [-115.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [-185.0, -165.0]
+13.6197 	EXP 	unnamed Line: end = [-115.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [-129.14213562373095, -235.0]
+13.6197 	EXP 	unnamed Line: end = [-115.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [-115.0, -220.85786437626905]
+13.6197 	EXP 	unnamed Line: end = [-115.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [185.0, -150.0]
+13.6197 	EXP 	unnamed Line: end = [115.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [125.0, -140.0]
+13.6197 	EXP 	unnamed Line: end = [115.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [125.0, -160.0]
+13.6197 	EXP 	unnamed Line: end = [115.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [200.0, -165.0]
+13.6197 	EXP 	unnamed Line: end = [200.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [190.0, -225.0]
+13.6197 	EXP 	unnamed Line: end = [200.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [210.0, -225.0]
+13.6197 	EXP 	unnamed Line: end = [200.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [115.0, -235.0]
+13.6197 	EXP 	unnamed Line: end = [185.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [185.0, -179.14213562373095]
+13.6197 	EXP 	unnamed Line: end = [185.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [170.85786437626905, -165.0]
+13.6197 	EXP 	unnamed Line: end = [185.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [485.0, -165.0]
+13.6197 	EXP 	unnamed Line: end = [415.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [415.0, -220.85786437626905]
+13.6197 	EXP 	unnamed Line: end = [415.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [429.14213562373095, -235.0]
+13.6197 	EXP 	unnamed Line: end = [415.0, -235.0]
+13.6197 	EXP 	unnamed Line: start = [415.0, -150.0]
+13.6197 	EXP 	unnamed Line: end = [485.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [475.0, -160.0]
+13.6197 	EXP 	unnamed Line: end = [485.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [475.0, -140.0]
+13.6197 	EXP 	unnamed Line: end = [485.0, -150.0]
+13.6197 	EXP 	unnamed Line: start = [500.0, -235.0]
+13.6197 	EXP 	unnamed Line: end = [500.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [510.0, -175.0]
+13.6197 	EXP 	unnamed Line: end = [500.0, -165.0]
+13.6197 	EXP 	unnamed Line: start = [490.0, -175.0]
+13.6197 	EXP 	unnamed Line: end = [500.0, -165.0]
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed ImageStim: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+13.6197 	EXP 	unnamed Line: autoDraw = True
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed ImageStim: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+21.6521 	EXP 	unnamed Line: autoDraw = False
+22.6544 	INFO 	using sysFont Arial
+22.6556 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=32, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='Po treningu', units='pix', win=Window(...), wrapWidth=1920)
+22.8049 	CRITICAL 	Experiment finished by user! f7 pressed.
