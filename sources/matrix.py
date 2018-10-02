@@ -8,9 +8,6 @@ from sources.arrow import Arrow
 
 class Matrix:
     def __init__(self, name, n_relations=2, n_figures=4):
-
-        if n_figures > n_relations * 2:
-            raise Exception("n_figures can't be greater than n_relations * 2")
         self.n_relations = n_relations
         self.n_figures = n_figures
         self.figures = []
@@ -26,7 +23,7 @@ class Matrix:
             pair = list(np.random.choice(self.figures, 2, replace=False))
             if (pair not in self.relations) and (pair[::-1] not in self.relations):
                 self.relations.append(pair)
-        if len(set([item for sublist in self.relations for item in sublist])) < self.n_figures:
+        if self.n_relations > 1 and len(set([item for sublist in self.relations for item in sublist])) < self.n_figures:
             self.relations = []
             self.create_relations()
 
@@ -150,8 +147,10 @@ class Matrix:
                 end_y = center_pos[1] + fig_offset / 2.0 - fig_size / 2.0
                 start = [start_x, start_y]
                 end = [end_x, end_y]
-
-            arrow = Arrow(win, arrow_color, start, end, arrow_long, arrow_width)
+            if self.n_relations == 1 and self.name == 'wrong_2':
+                arrow = Arrow(win, arrow_color, start, end, 0, 0)
+            else:
+                arrow = Arrow(win, arrow_color, start, end, arrow_long, arrow_width)
             self.stimulus.append(arrow)
 
     def set_auto_draw(self, draw):

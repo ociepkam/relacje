@@ -6,8 +6,6 @@ from sources.matrix import Matrix
 
 class Trial:
     def __init__(self, n_relations=2, n_figures=4):
-        if n_figures > n_relations * 2:
-            raise Exception("n_figures can't be greater than n_relations * 2")
         self.n_relations = n_relations
         self.n_figures = n_figures
 
@@ -31,20 +29,20 @@ class Trial:
         self.matrix_wrong_1.figures = perm[2]
         self.matrix_wrong_1.change_relation(1)
 
-        while True:
-            self.matrix_wrong_2 = deepcopy(self.matrix_main)
-            self.matrix_wrong_2.name = "wrong_2"
-            self.matrix_wrong_2.figures = perm[3]
-            self.matrix_wrong_2.change_relation(1)
-            if self.matrix_wrong_2.relations != self.matrix_wrong_1.relations:
-                break
+        # while True:
+        #     self.matrix_wrong_2 = deepcopy(self.matrix_main)
+        #     self.matrix_wrong_2.name = "wrong_2"
+        #     self.matrix_wrong_2.figures = perm[3]
+        #     self.matrix_wrong_2.change_relation(1)
+        #     if self.matrix_wrong_2.relations != self.matrix_wrong_1.relations:
+        #         break
 
         self.matrix_wrong_3 = deepcopy(self.matrix_main)
-        self.matrix_wrong_3.name = "wrong_3"
+        self.matrix_wrong_3.name = "wrong_2"
         self.matrix_wrong_3.figures = perm[4]
         self.matrix_wrong_3.change_relation(2)
 
-        self.answers = [self.matrix_wrong_1, self.matrix_wrong_2, self.matrix_wrong_3, self.matrix_answer]
+        self.answers = [self.matrix_wrong_1, self.matrix_wrong_3, self.matrix_answer]
         np.random.shuffle(self.answers)
 
     def prepare_to_draw(self, win, main_fig_size, main_move_y, answers_fig_size, answers_move_y, fig_offset,
@@ -52,12 +50,11 @@ class Trial:
         self.matrix_main.prepare_draw(win, main_fig_size, fig_offset, (0, main_move_y),
                                       arrow_long, arrow_width, arrow_color)
         for idx, matrix in enumerate(self.answers):
-            matrix.prepare_draw(win, answers_fig_size, fig_offset, (matrix_offset * (idx - 1.5), answers_move_y),
+            matrix.prepare_draw(win, answers_fig_size, fig_offset, (matrix_offset * (idx - 1), answers_move_y),
                                 arrow_long, arrow_width, arrow_color)
 
     def set_auto_draw(self, draw=True):
-        for matrix in [self.matrix_main, self.matrix_answer, self.matrix_wrong_1,
-                       self.matrix_wrong_2, self.matrix_wrong_3]:
+        for matrix in [self.matrix_main, self.matrix_answer, self.matrix_wrong_1, self.matrix_wrong_3]:
             matrix.set_auto_draw(draw)
 
     def get_info(self):
