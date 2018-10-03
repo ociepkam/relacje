@@ -87,9 +87,13 @@ response_clock = core.Clock()
 # show_info(window, join('.', 'messages', "instruction1.txt"),text_size=config['TEXT_SIZE'], screen_width=SCREEN_RES[0])
 show_image(window, 'instruction.png', SCREEN_RES)
 
-for i in range(config['TRAINING_TRIALS']):
-    acc, rt, stim_time, n,  answer_type= run_trial(n=config['TRAINING_LEVEL'])
-    RESULTS.append([i+1, 0, acc, rt, stim_time, n, 0, 0, answer_type])
+i = 1
+for elem in config['TRAINING_TRIALS']:
+    print(elem)
+    for trail in range(elem['n_trails']):
+        acc, rt, stim_time, n, answer_type = run_trial(n=elem['level'])
+        RESULTS.append([i, 0, acc, rt, stim_time, n, 0, 0, answer_type])
+        i += 1
 
 # EXPERIMENT
 show_info(window, join('.', 'messages', "instruction2.txt"), text_size=config['TEXT_SIZE'], screen_width=SCREEN_RES[0])
