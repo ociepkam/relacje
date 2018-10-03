@@ -1,19 +1,19 @@
-TRAINING_TRIALS: [{level: 3, n_trails: 2}, {level: 4, n_trails: 2}]
+TRAINING_TRIALS: [{level: 1, n_trails: 1}, {level: 2, n_trails: 1}, {level: 3, n_trails: 1}]
 START_LEVEL: 5
-MAX_REVS: 3
-MAX_TRIALS: 10
+MAX_REVS: 6
+MAX_TRIALS: 70
 MIN_LEVEL: 1
 MAX_LEVEL: 6
 
 # time in seconds
-CONST_TIME: 2
+CONST_TIME: 3
 LEVEL_TIME: 4
-JITTER_TIME: 1
+JITTER_TIME: 0.5
 
 # visual parameters
 TEXT_SIZE: 32
 FIG_OFFSET: 100
-MATRIX_OFFSET: 200
+MATRIX_OFFSET: 240
 
 MAIN_FIG_SIZE: 40
 MAIN_MOVE_Y: 100
@@ -21,12 +21,12 @@ MAIN_MOVE_Y: 100
 ANSWERS_FIG_SIZE: 40
 ANSWERS_MOVE_Y: -100
 
-ARROW_LONG: 10
-ARROW_WIDTH: 10
+ARROW_LONG: 8
+ARROW_WIDTH: 15
 ARROW_COLOR: 'black'
 
 # clock
 ## show clock n second before trial end
-SHOW_CLOCK: 3
-CLOCK_POS: [600, 400]
-CLOCK_SIZE: 50
+SHOW_CLOCK: 4
+CLOCK_POS: [400, 400]
+CLOCK_SIZE: 70
