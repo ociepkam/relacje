@@ -9,7 +9,7 @@ import random
 from sources.experiment_info import experiment_info
 from sources.load_data import load_config
 from sources.screen import get_screen_res, get_frame_rate
-from sources.show_info import show_info
+from sources.show_info import show_info, show_image
 from sources.trial import Trial
 from sources.check_exit import check_exit
 from sources.adaptives.NUpNDown import NUpNDown
@@ -84,7 +84,8 @@ clock_image = visual.ImageStim(win=window, image=join('images', 'clock.png'), in
 response_clock = core.Clock()
 
 # TRAINING
-show_info(window, join('.', 'messages', "instruction1.txt"), text_size=config['TEXT_SIZE'], screen_width=SCREEN_RES[0])
+# show_info(window, join('.', 'messages', "instruction1.txt"),text_size=config['TEXT_SIZE'], screen_width=SCREEN_RES[0])
+show_image(window, 'instruction.png', SCREEN_RES)
 
 for i in range(config['TRAINING_TRIALS']):
     acc, rt, stim_time, n,  answer_type= run_trial(n=config['TRAINING_LEVEL'])
