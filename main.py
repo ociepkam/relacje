@@ -38,8 +38,8 @@ def save_beh():
 def run_trial(n):
     trial = Trial(n_relations=n)
     trial.prepare_to_draw(win=window, main_fig_size=config['MAIN_FIG_SIZE'], main_move_y=config['MAIN_MOVE_Y'],
-                          answers_fig_size=config['ANSWERS_FIG_SIZE'], answers_move_y=config['ANSWERS_MOVE_Y'],
-                          fig_offset=config['FIG_OFFSET'], matrix_offset=config['MATRIX_OFFSET'],
+                          answers_fig_size=config['ANSWERS_FIG_SIZE'], fig_offset=config['FIG_OFFSET'],
+                          answers_pos=[config["ANSWERS_1_POS"], config["ANSWERS_2_POS"], config["ANSWERS_3_POS"]],
                           arrow_long=config['ARROW_LONG'], arrow_width=config['ARROW_WIDTH'],
                           arrow_color=config['ARROW_COLOR'])
     stim_time = config['CONST_TIME'] + trial.n_relations * config['LEVEL_TIME']

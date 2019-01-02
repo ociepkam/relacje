@@ -45,12 +45,12 @@ class Trial:
         self.answers = [self.matrix_wrong_1, self.matrix_wrong_3, self.matrix_answer]
         np.random.shuffle(self.answers)
 
-    def prepare_to_draw(self, win, main_fig_size, main_move_y, answers_fig_size, answers_move_y, fig_offset,
-                        matrix_offset, arrow_long, arrow_width, arrow_color='black'):
+    def prepare_to_draw(self, win, main_fig_size, main_move_y, answers_fig_size, answers_pos, fig_offset,
+                        arrow_long, arrow_width, arrow_color='black'):
         self.matrix_main.prepare_draw(win, main_fig_size, fig_offset, (0, main_move_y),
                                       arrow_long, arrow_width, arrow_color)
         for idx, matrix in enumerate(self.answers):
-            matrix.prepare_draw(win, answers_fig_size, fig_offset, (matrix_offset * (idx - 1), answers_move_y),
+            matrix.prepare_draw(win, answers_fig_size, fig_offset, answers_pos[idx],
                                 arrow_long, arrow_width, arrow_color)
 
     def set_auto_draw(self, draw=True):
