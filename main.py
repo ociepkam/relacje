@@ -115,7 +115,7 @@ for i, soa in enumerate(experiment, i):
     else:
         rev_count_val = '-'
 
-    RESULTS.append([config['TRAINING_TRIALS'] + i, 1, acc, rt, stim_time, n, reversal, rev_count_val, answer_type])
+    RESULTS.append([i, 1, acc, rt, stim_time, n, reversal, rev_count_val, answer_type])
     experiment.set_corr(acc)
 
 
